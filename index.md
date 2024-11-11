@@ -51,10 +51,11 @@ There are a few spaces where parking rules are enforced over the
 weekend, so you may want to check for a sign with the parking rules as
 you pull into a lot.
 
-The figure below shows some of the facutly spaces (in red) near
-Lampe hall.  The Yarbrough Lot south of Lampe is being used for
+The figure below shows some of the facutly spaces (in red) near Lampe
+hall.  The Yarbrough Lot south of Lampe is being used for
 construction.  If you have trouble finding a space, the large Jeter
 Drive lot to the south or the Boney Drive lot to the south-east should
-have plenty of spaces.  These will be a five minute walk to Lampe.
+have plenty of spaces.  From either of these, it will be less than a
+five minute walk to Lampe.
 
 ![Faculty parking spaces near Lampe Hall](resource/parking-map.png)
