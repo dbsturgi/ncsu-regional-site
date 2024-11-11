@@ -57,4 +57,4 @@ construction.  If you have trouble finding a space, the large Jeter
 Drive lot to the south or the Boney Drive lot to the south-east should
 have plenty of spaces.  These will be a five minute walk to Lampe.
 
-![Faculty parking spaces near Lampe Hall](parking-map.png)
+![Faculty parking spaces near Lampe Hall](resource/parking-map.png)
