@@ -25,13 +25,36 @@ It's pretty much the same as the schedules at other sites.
 
 For the contest, we will be using desktop computers in two labs.
 Teams should not need to bring any of their own equipment for the
-contest.  These labs normally seat 30 to 40 students.  We'll be using
+contest.  These labs normally seat 30 to 40 students.  We'll be
 putting each teem on a row of desks that normally seats three or four
 students, so each team should have plenty of space.  There will be
 other desktop machines, but only the center machine will be used for
-the contest.
+the contest.  The keybords and mice for the other machines on the row
+can be moved to the edge of the desk, to provide more space for
+working.
 
 These computers will be running the standard contest image for our
 site.  The main [mid-atlantic web
 page](https://sites.radford.edu/~acm/midatl/) has some information
 about languages and development tools available on this image.
+
+## Network Access
+
+NCSU has a guest network named ncsu-guest. The eduroam network is also available.
+
+## Parking
+
+You should be able to park in most faculty spaces on the weekend, and
+I expect there will be a lot of spaces available near Lampe Hall when
+teams start arriving for the contest.
+There are a few spaces where parking rules are enforced over the
+weekend, so you may want to check for a sign with the parking rules as
+you pull into a lot.
+
+The figure below shows some of the facutly spaces (in red) near
+Lampe hall.  The Yarbrough Lot south of Lampe is being used for
+construction.  If you have trouble finding a space, the large Jeter
+Drive lot to the south or the Boney Drive lot to the south-east should
+have plenty of spaces.  These will be a five minute walk to Lampe.
+
+![Faculty parking spaces near Lampe Hall](parking-map.png)
