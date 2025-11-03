@@ -8,7 +8,7 @@ Centennial Campus, where most of the engineering building are.
 
 ## Schedule
 
-The following schedule shows events for contest day, on November 16.
+The following schedule shows events for contest day, on November 8.
 It's pretty much the same as the schedules at other sites.
 
 | Time             | Activity                          |                Location |
@@ -28,14 +28,14 @@ Teams should not need to bring any of their own equipment for the
 contest.  These labs normally seat 30 to 40 students.  We'll be
 putting each teem on a row of desks that normally seats three or four
 students, so each team should have plenty of space.  There will be
-other desktop machines, but only the center machine will be used for
+other desktop machines, but only one machine will be used for
 the contest.  The keybords and mice for the other machines on the row
 can be moved to the edge of the desk, to provide more space for
 working.
 
 These computers will be running the standard contest image for our
 site.  The main [mid-atlantic web
-page](https://sites.radford.edu/~acm/midatl/) has some information
+page](https://ma.na.icpc.global) has some information
 about languages and development tools available on this image.
 
 ## Network Access
