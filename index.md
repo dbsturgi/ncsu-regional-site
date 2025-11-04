@@ -46,13 +46,13 @@ NCSU has a guest network named ncsu-guest. The eduroam network is also available
 
 You should be able to park in most faculty spaces on the weekend, and
 I expect there will be a lot of spaces available near Lampe Hall when
-teams start arriving for the contest.
-There are a few spaces where parking rules are enforced over the
-weekend, so you may want to check for a sign with the parking rules as
-you pull into a lot.
+teams start arriving for the contest.  There are a few spaces where
+parking rules are enforced over the weekend.  It seems like there are
+more of these this year, so you will want to check for a sign with the
+parking rules as you pull into a space or into a lot lot.
 
 The figure below shows some of the facutly spaces (in red) near Lampe
-hall.  The Yarbrough Lot south of Lampe is being used for
+Hall.  The Yarbrough Lot south of Lampe is being used for
 construction.  If you have trouble finding a space, the large Jeter
 Drive lot to the south or the Boney Drive lot to the south-east should
 have plenty of spaces.  From either of these, it will be less than a
