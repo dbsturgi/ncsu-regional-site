@@ -14,7 +14,7 @@ It's pretty much the same as the schedules at other sites.
 | Time             | Activity                          |                Location |
 | ---------------- | --------------------------------- | ----------------------- |
 |  9:15 - 10:00 am | Registration and Light Breakfast  |   Lampe 2nd floor lobby |
-| 10:00 - 10:00 am | Welcoming remarks                 |          Lampe room 218 |
+| 10:00 - 11:00 am | Welcoming remarks                 |          Lampe room 218 |
 | 11:00 am - noon  | Practice problems                 | Lampe rooms 200 and 255 |
 | noon - 1:15 pm   | Lunch                             |   Lampe 2nd floor lobby |
 | 1:30 - 6:30 pm   | Competition                       | Lampe rooms 200 and 255 |
